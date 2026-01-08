@@ -1,0 +1,5 @@
+{
+  "name": "LiftTrack AI",
+  "description": "A minimal, no-nonsense strength training progress and recovery tracking app. It uses AI to provide insights on fatigue, recovery, and performance, helping intermediate to advanced lifters optimize their training without distractions.",
+  "requestFramePermissions": []
+}
